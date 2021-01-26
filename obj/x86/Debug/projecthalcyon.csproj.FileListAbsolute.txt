@@ -1,0 +1,2 @@
+C:\MAMP\htdocs\Halcyon\obj\x86\Debug\projecthalcyon.csprojAssemblyReference.cache
+C:\MAMP\htdocs\Halcyon\obj\x86\Debug\projecthalcyon.csproj.CoreCompileInputs.cache
