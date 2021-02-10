@@ -6,7 +6,7 @@ $images= $_POST['images'];
 
 
 
-  $conn = new mysqli("localhost","root","Project2020Halcyon","moody");
+  $conn = new mysqli("localhost","admin","password","moody");
   if($conn->connect_error)
      {
        die('connection failed :' .$conn->connect_error);
