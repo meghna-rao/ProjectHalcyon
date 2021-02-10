@@ -19,7 +19,7 @@ if($Password == $confirm){ echo "";
 if (!empty($Name) || !empty($Email) || !empty($Password) || !empty($confirm)  )
 { $host = "localhost";
   $dbusername = "admin";
-  $dbpassword = "";
+  $dbpassword = "password";
   $dbname = "moody";
  
 
