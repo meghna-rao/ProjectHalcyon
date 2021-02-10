@@ -18,8 +18,8 @@ if($Password == $confirm){ echo "";
 
 if (!empty($Name) || !empty($Email) || !empty($Password) || !empty($confirm)  )
 { $host = "localhost";
-  $dbusername = "root";
-  $dbpassword = "Project2020Halcyon";
+  $dbusername = "admin";
+  $dbpassword = "";
   $dbname = "moody";
  
 
