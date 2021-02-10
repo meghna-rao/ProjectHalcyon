@@ -307,8 +307,8 @@ $opt = filter_input(INPUT_POST, 'opt');
 if (!empty($date) || !empty($timezoneId) || !empty($slot) || empty($name) || empty($lastname) || !empty($email)){
 
 $host = "localhost";
-$dbusername = "root";
-$dbpassword = "Project2020Halcyon";
+$dbusername = "admin";
+$dbpassword = "password";
 $dbname = "appointment";
 // Create connection
 $conn = new mysqli ($host, $dbusername, $dbpassword, $dbname);
