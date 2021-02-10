@@ -1,6 +1,6 @@
 <?php
 session_start();
-$con = new mysqli("localhost","root","root","moody");
+$con = new mysqli("localhost","root","Project2020Halcyon","moody");
 if (isset($_POST['submit'])){
 
   $Email = $_POST['Email'];
